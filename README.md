@@ -17,7 +17,7 @@ Therefore, it is possible to decode using a decoder.
 
 Make sure to use the decoding header included in the "phone_decoding_header" file and combine it to extract frames using a decoder.
 
-You can download the h_265_phone.mp4 on the next link
+You can download the test files on the next link
 
-### The test is conducted by these videos
+### The test is conducted by these files
 https://drive.google.com/file/d/1EJoOoSgQCLQpmHvjJnsXBFhADUP7Cvtz/view?usp=sharing
