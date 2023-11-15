@@ -30,4 +30,4 @@ raw video : https://drive.google.com/file/d/1EJoOoSgQCLQpmHvjJnsXBFhADUP7Cvtz/vi
 #### Etc
 
 Modifications and distribution are free, but please provide proper attribution.
-\\If you have any questions, please contact to ksr9852@dgu.ac.kr
+\\ If you have any questions, please contact to ksr9852@dgu.ac.kr
