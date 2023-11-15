@@ -23,3 +23,11 @@ You can download the test files on the next link
 raw video : https://drive.google.com/file/d/1EJoOoSgQCLQpmHvjJnsXBFhADUP7Cvtz/view?usp=sharing
 
 \\ over_50_bun : https://drive.google.com/file/d/113SpCN5FW3PoJHnSwq7_9KesIRaKQJvn/view?usp=sharing
+\\ over_50 : https://drive.google.com/file/d/1oqWUPs4_86x8sbueHEpnu4Ap736bNMK6/view?usp=sharing
+\\ gap_3 : https://drive.google.com/file/d/1TS5HdIrXVELMgLE7ta3umRR0tyUyGCST/view?usp=sharing
+
+
+#### Etc
+
+Modifications and distribution are free, but please provide proper attribution.
+\\If you have any questions, please contact to ksr9852@dgu.ac.kr
